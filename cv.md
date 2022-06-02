@@ -1,5 +1,5 @@
 # **Aliaksand USHAKOU** <h1>
-![Photo]"E:\rsschool-cv_1\rsschool-cv1.3\assets\here I'm.JPG"
+![Photo](assets/me.JPG)  "E:\rsschool-cv_1\rsschool-cv1.3\assets\me.JPG"
  ## **Contacts**: <h2>
  * _mobile phone: +37529 7 68 63 63
  * e_mail: baruhuyc@icloud.com
