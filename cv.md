@@ -1,8 +1,8 @@
 # **Aliaksand USHAKOU** <h1>
 ![Photo](assets/me.JPG)  "E:\rsschool-cv_1\rsschool-cv1.3\assets\me.JPG"
  ## **Contacts**: <h2>
- * _mobile phone: +37529 7 68 63 63
- * e_mail: baruhuyc@icloud.com
+ * mobile phone: +37529 7 68 63 63
+ * e-mail: baruhuyc@icloud.com
  * ithub: https://github.com/Baruhuyc/rsschool-cv.git
  * nicname in Discord: Baruhuyc 
  ### About myself <h3>
