@@ -1,9 +1,10 @@
 # **Aliaksand USHAKOU** <h1>
-![Photo]"E:\rsschool-cv1.3\here I'm.jpg"
+![Photo]"E:\rsschool-cv_1\rsschool-cv1.3\assets\here I'm.JPG"
  ## **Contacts**: <h2>
  * _mobile phone: +37529 7 68 63 63
  * e_mail: baruhuyc@icloud.com
- * Github: https://github.com/Baruhuyc/rsschool-cv.git
+ * ithub: https://github.com/Baruhuyc/rsschool-cv.git
+ * nicname in Discord: Baruhuyc 
  ### About myself <h3>
  * *Result oriented and self-motivated manager with high intention to achieve goals* 
  #### **COMPETENCES**: <h4> 
