@@ -3,8 +3,8 @@
  ## **Contacts**: <h2>
  * mobile phone: +37529 7 68 63 63
  * e-mail: baruhuyc@icloud.com
- * ithub: https://github.com/Baruhuyc/rsschool-cv.git
- * nicname in Discord: Baruhuyc 
+ * Github: https://github.com/Baruhuyc/rsschool-cv.git
+ * nickname in Discord: Baruhuyc 
  ### About myself <h3>
  * *Result oriented and self-motivated manager with high intention to achieve goals* 
  #### **COMPETENCES**: <h4> 
