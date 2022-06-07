@@ -1,2 +1,2 @@
 # rsschool-cv
-# https://github.com/Baruhuyc/rsschool-cv.git
+# https://github.com/Baruhuyc/rsschool-cv/blob/gh-pages/cv.md
